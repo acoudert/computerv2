@@ -1,0 +1,4 @@
+help
+f(x) = 1 + x
+g(y) = y^2
+c_fun

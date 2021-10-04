@@ -1,0 +1,9 @@
+square(4) = ?
+exp(square(4)) = ?
+abs(exp(10)) = ?
+abs(-1 * exp(10)) = ?
+cos(90) = ?
+sin(90) = ?
+tan(90) = ?
+rad(90) = ?
+sin(90) / cos(90) = ?

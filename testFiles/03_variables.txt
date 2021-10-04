@@ -1,0 +1,12 @@
+a = 1
+a = ?
+b = 2.5
+a + b = ?
+varA = 2 * i + 3
+a + 2 varA = ?
+vara = 2 a + i
+varA = ?
+2 * varb / (2b) = ?
+b = 2 vara
+2 * b = ?
+i = 1

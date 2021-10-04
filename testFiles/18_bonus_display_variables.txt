@@ -1,0 +1,7 @@
+help
+x = i^2
+vara = 2 + 8 + x
+d_var
+x = 1 + 3i
+y = -0.5
+d_var

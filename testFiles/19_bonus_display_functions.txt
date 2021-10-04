@@ -1,0 +1,7 @@
+help
+f(x) = 1 + x
+g(a) = f(3) + 7 * a
+d_fun
+g(b) = f(i) + 2 / b
+function(r) = square(2) + i + r
+d_fun
